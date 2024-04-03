@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 # Hi, I am Sandy👋
 ## Web developer in Canberra, Australia
 - I graduated with a Master of Computing from [Australian National University (ANU)](https://www.anu.edu.au/) in Canberra, ACT. I work as a web application developer at [GymAware](https://gymaware.com/) and an academic tutor at ANU.
-- 🔭 I’m currently working on a web gym application
+- 🏋️‍♀️ I’m currently working on a web gym application
+- 🕶️ I’m currently trying on HackerRank 👩‍💻
 - 💬 Ask me about how life is in Canberra 🥹
 - 📫 Reach me via [Email](mailto:sandy.zhao019@gmail.com)
 
